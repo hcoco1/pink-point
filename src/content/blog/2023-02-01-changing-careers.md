@@ -2,7 +2,7 @@
 title:  "Changing careers"
 description: "Changing careers is exciting and ..."
 pubDate: "2022-12-30T11:39:36.050Z"
-heroImage: "https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?auto=format&fit=crop&w=927&h=927"
+heroImage: "/change.jpeg"
 
 
 
